@@ -118,7 +118,7 @@ params:
   hero:
     enable: true
     intro: "Hi, my name is"
-    title: "Josh."
+    title: "Adam."
     subtitle: "This is my personal website!"
     content: "It's currently a Work In Progress, please come back when it's finished."
     image: /images/hero.svg
