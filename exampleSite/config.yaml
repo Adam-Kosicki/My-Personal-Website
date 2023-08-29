@@ -119,8 +119,8 @@ params:
     enable: true
     intro: "Hi, my name is"
     title: "Adam."
-    subtitle: "I build things for the web"
-    content: "A passionate web app developer. I tend to make use of modern web technologies to build websites that looks great, feels fantastic, and functions correctly."
+    subtitle: "This is my personal website!"
+    content: "It's currently a Work In Progress, please come back when it's finished."
     image: /images/hero.svg
     bottomImage:
       enable: true
